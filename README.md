@@ -9,8 +9,9 @@ To run these php files in WAMP:
 
 # Sample I/O
 01_expressions:
-- NO ENTRIES NESSESARY
-- sum=13 prod=30 a=15 14 20 Hello Ada Hello Ada
+NO ENTRIES NESSESARY
+
+sum=13 prod=30 a=15 14 20 Hello Ada Hello Ada
 C:\wamp64\www\html\lab4\01_expressions.php:20:boolean true
 C:\wamp64\www\html\lab4\01_expressions.php:21:boolean false
 Entry allowed Result: Fail/NoScore Three times 3.
@@ -36,7 +37,8 @@ Passez un bon week-end!
 Non Autorise
 
 03_loops
-- NO ENTRIES NESSESARY
+NO ENTRIES NESSESARY
+
 7 14 21 28 35 42 49 56 63 70 First n where sum>100 is 15, sum=105
 do...while ran 1 time(s)
 Subtotal (skip < 1): 15.7
@@ -68,22 +70,22 @@ Excellent Work!
 
 05_toolkit/index.php
 On Stats page...
-- I am Unicron
-NO OUTPUT
-- 1
-Count: 1
+1. I am Unicron
+- NO OUTPUT
+2. 1
+- Count: 1
 Sum: 1
 Min: 1
 Max: 1
 Average: 1.00
-- 3, 4
-Count: 2
+3. 3, 4
+- Count: 2
 Sum: 7
 Min: 3
 Max: 4
 Average: 3.50
-- 6, 8, 7, 5, 3, 0, 9
-Count: 7
+4. 6, 8, 7, 5, 3, 0, 9
+- Count: 7
 Sum: 38
 Min: 0
 Max: 9
